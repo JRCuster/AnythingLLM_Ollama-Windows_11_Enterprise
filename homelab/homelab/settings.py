@@ -2,7 +2,7 @@ import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-SECRET_KEY = 'replace-this-with-a-genuine-secret-key'  // INPUT_REQUIRED {generate a new SECRET_KEY}
+SECRET_KEY = 'um=bua61obi^%&ct1dicv!a)@ew$uor5&u4ppjar@cvonnv*nn'
 
 DEBUG = True
 
